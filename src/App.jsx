@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <Page>
-        <TrackDetails artist={track.artist} artwork={track.albumArtURI} title={track.title} />
+        <TrackDetails artist={track.artist} artwork={track.albumArtURI} title={track.title} album={track.album} />
         <Background artwork={track.albumArtURI} />
       </Page>
     </>

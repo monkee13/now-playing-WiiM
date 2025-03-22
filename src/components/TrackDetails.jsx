@@ -1,4 +1,4 @@
-export default function TrackDetails({ artist, artwork, title }) {
+export default function TrackDetails({ artist, artwork, album, title }) {
   return (
     <div className="absolute z-10">
       <img src={artwork} className="-mt-2 rounded-md drop-shadow-2xl" />
