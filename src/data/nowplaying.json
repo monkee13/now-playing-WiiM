@@ -1,13 +1,1 @@
-{
-    "metaData": {
-        "album": "The Clown",
-        "title": "Haitian Fight Song",
-        "subtitle": "unknow",
-        "artist": "Charles Mingus",
-        "albumArtURI": "https://resources.tidal.com/images/5b2b0bdc/7d82/4710/8e62/108cd01ee469/640x640.jpg",
-        "sampleRate": "44100",
-        "bitDepth": "16",
-        "bitRate": "510",
-        "trackId": "285206"
-    }
-}
+{ "metaData": { "album": "Bridge City Sinners", "title": "Satan's Song", "subtitle": "unknow", "artist": "The Bridge City Sinners", "albumArtURI": "https://resources.tidal.com/images/a1ce38bb/9523/4ef8/8304/8328441cd8bc/640x640.jpg", "sampleRate": "44100", "bitDepth": "16", "bitRate": "823", "trackId": "77499341" } }
