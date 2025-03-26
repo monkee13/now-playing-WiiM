@@ -1,0 +1,20 @@
+{
+    "type": "0",
+    "ch": "0",
+    "mode": "10",
+    "loop": "4",
+    "eq": "0",
+    "vendor": "Tidal",
+    "status": "play",
+    "curpos": "125492",
+    "offset_pts": "125492",
+    "totlen": "566466",
+    "Title": "496E20596F757220526F6F6D",
+    "Artist": "61697269656C",
+    "Album": "57696E6B732026616D703B204B69737365733A204D656C746564",
+    "alarmflag": "0",
+    "plicount": "100",
+    "plicurr": "19",
+    "vol": "20",
+    "mute": "0"
+}

@@ -2,7 +2,8 @@ import { useEffect, useState } from "react";
 import TrackDetails from "./components/TrackDetails";
 import Background from "./components/Background";
 import Page from "./components/Page";
-import data from "./data/metadata.json";
+import data from "./data/nowplaying.json";
+//import data from "./data/player-status.json";
 
 function App() {
   const [loading, setLoading] = useState(true);
